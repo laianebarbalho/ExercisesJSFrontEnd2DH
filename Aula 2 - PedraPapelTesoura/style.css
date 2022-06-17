@@ -1,0 +1,37 @@
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 3.5rem;
+}
+
+#lista {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+ul {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 1px solid pink;
+  width: 40rem;
+}
+li {
+  list-style-type: none;
+  font-size: 2rem;
+}
+
+button {
+  background-color: pink;
+  border: 1px solid rgb(236, 155, 168);
+  font-size: 2rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+button:hover {
+  border: 1.5px solid rgb(255, 192, 245);
+  box-shadow: inset 0 0 1em rgb(255, 0, 0);
+}
