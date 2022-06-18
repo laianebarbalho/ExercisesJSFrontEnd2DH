@@ -7,6 +7,8 @@ Depois, temos que pegar este resultado e somar o terceiro número, e assim por d
 
 ![image](https://user-images.githubusercontent.com/70419007/174400114-9f353030-764b-4f1e-b0b6-7ad35273ad04.png)
 
+<hr>
+
 # Exercicio Aula 02 - Pedra, Papel e Tesoura JS:
 
 Programaremos um pequeno jogo de Pedra, Papel ou Tesoura. Neste jogo o usuário poderá escolher entre uma das três opções e o computador escolherá aleatoriamente uma das três opções, essas opções serão então comparadas e no final será mostrado quem ganhou e quem perdeu a disputa. Para fazer essa atividade é importante lembrar das regras básicas deste jogo:
@@ -28,6 +30,7 @@ Após termos as regras e o sistema com uma partida do jogo, ficará ao encargo d
 4. Comente o código e utilize qualquer outro recurso para deixá-lo melhor formatado.
 
 ```
+<hr>
 
 # Exercicio Aula 03 - Calculadora Usando Módulos JS
 
@@ -86,4 +89,6 @@ No entanto, nos coloca para pensar…
 Boas perguntas para discutir com o restante dos alunos e com nosso professor.
 
 <b>Até a próxima! </b>
+
+<hr>
 
